@@ -1,0 +1,7 @@
+name: AdvancementTags
+version: '1.4'
+main: net.gg.tech.advancementTags.AdvancementTags
+api-version: '1.21'
+load: STARTUP
+authors: [ _ItzTech ]
+description: Private TechSMP plugin for the Advancement System
